@@ -9,3 +9,6 @@ var readyForClass = true
 email = "sallyhansen@gmail.com"
 name = "Sally Hansen"
 gender = "female"
+console.log(email)
+console.log(name)
+console.log(gender)
