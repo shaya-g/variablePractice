@@ -3,3 +3,5 @@ var name = "Bob the builder"
 var gender = "male"
 var age = 29
 var streetNumber = 9223
+var depositPaid = true
+var readyForClass = true
